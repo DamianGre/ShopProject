@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Models\ShopProject.Models.csproj" />
-    <ProjectReference Include="..\Repos\ShopProject.Repos.csproj" />
+    <ProjectReference Include="..\ShopProject.DBModels\ShopProject.DBModels.csproj" />
+    <ProjectReference Include="..\ShopProject.Dtos\ShopProject.Dtos.csproj" />
   </ItemGroup>
 
 </Project>

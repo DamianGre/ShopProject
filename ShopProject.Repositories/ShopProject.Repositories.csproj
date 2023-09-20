@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShopProject.Converters\ShopProject.Converters.csproj" />
+    <ProjectReference Include="..\ShopProject.DBModels\ShopProject.DBModels.csproj" />
+    <ProjectReference Include="..\ShopProject.Dtos\ShopProject.Dtos.csproj" />
+    <ProjectReference Include="..\ShopProject.EF\ShopProject.EF.csproj" />
+    <ProjectReference Include="..\ShopProject\ShopProject.WebApi.csproj" />
+  </ItemGroup>
+
 </Project>

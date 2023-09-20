@@ -88,6 +88,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ShopProject.DBModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopProject.Dtos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopProject.DBModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopProject.DBModels.dll": {}
+        }
+      },
+      "ShopProject.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopProject.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopProject.Dtos.dll": {}
+        }
       }
     }
   },
@@ -429,10 +452,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ShopProject.DBModels/1.0.0": {
+      "type": "project",
+      "path": "../ShopProject.DBModels/ShopProject.DBModels.csproj",
+      "msbuildProject": "../ShopProject.DBModels/ShopProject.DBModels.csproj"
+    },
+    "ShopProject.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../ShopProject.Dtos/ShopProject.Dtos.csproj",
+      "msbuildProject": "../ShopProject.Dtos/ShopProject.Dtos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ShopProject.DBModels >= 1.0.0",
+      "ShopProject.Dtos >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -467,7 +502,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj": {
+              "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj"
+            },
+            "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj": {
+              "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

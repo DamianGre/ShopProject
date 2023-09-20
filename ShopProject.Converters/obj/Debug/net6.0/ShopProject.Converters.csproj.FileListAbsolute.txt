@@ -1,0 +1,5 @@
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.csproj.AssemblyReference.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.AssemblyInfoInputs.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.AssemblyInfo.cs
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.csproj.CoreCompileInputs.cache

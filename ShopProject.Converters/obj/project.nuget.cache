@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IokxFJ38Le1GlR4GZFKuJ5EE0O+aS4v60BzcDXH/sATMgceJCW3/Zd6J+ky53Wrw6B1juV+Tm5gX4GKlTF96zA==",
+  "dgSpecHash": "pNwU+346mFefBAmYc/LCZAM4B9vUv9EWf2ytNdiZjlpouaxPOSXs8NYZAUVgcod8bD8KQGb9Mvs9IieV3oosDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tomek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tomek\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tomek\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\tomek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\tomek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\tomek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
