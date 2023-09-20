@@ -20,6 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ShopProject.DBModels\ShopProject.DBModels.csproj" />
     <ProjectReference Include="..\ShopProject.Dtos\ShopProject.Dtos.csproj" />
+    <ProjectReference Include="..\ShopProject.Repositories\ShopProject.Repositories.csproj" />
   </ItemGroup>
 
 </Project>

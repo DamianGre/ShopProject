@@ -10,8 +10,4 @@
     <Folder Include="Models\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ShopProject.Dtos\ShopProject.Dtos.csproj" />
-  </ItemGroup>
-
 </Project>

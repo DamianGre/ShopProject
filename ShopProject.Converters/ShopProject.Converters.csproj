@@ -9,7 +9,6 @@
   <ItemGroup>
     <ProjectReference Include="..\ShopProject.DBModels\ShopProject.DBModels.csproj" />
     <ProjectReference Include="..\ShopProject.Dtos\ShopProject.Dtos.csproj" />
-    <ProjectReference Include="..\ShopProject\ShopProject.WebApi.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "ShopProject.Dtos/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/ShopProject.Dtos.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ShopProject.Dtos.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "ShopProject.Dtos/1.0.0": {
-      "type": "project",
-      "path": "../ShopProject.Dtos/ShopProject.Dtos.csproj",
-      "msbuildProject": "../ShopProject.Dtos/ShopProject.Dtos.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "ShopProject.Dtos >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\tomek\\.nuget\\packages\\": {},
@@ -57,11 +38,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj": {
-              "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -92,9 +92,6 @@
       "ShopProject.DBModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "ShopProject.Dtos": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/ShopProject.DBModels.dll": {}
         },
@@ -110,6 +107,19 @@
         },
         "runtime": {
           "bin/placeholder/ShopProject.Dtos.dll": {}
+        }
+      },
+      "ShopProject.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopProject.DBModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopProject.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopProject.Repositories.dll": {}
         }
       }
     }
@@ -462,12 +472,18 @@
       "type": "project",
       "path": "../ShopProject.Dtos/ShopProject.Dtos.csproj",
       "msbuildProject": "../ShopProject.Dtos/ShopProject.Dtos.csproj"
+    },
+    "ShopProject.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../ShopProject.Repositories/ShopProject.Repositories.csproj",
+      "msbuildProject": "../ShopProject.Repositories/ShopProject.Repositories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "ShopProject.DBModels >= 1.0.0",
       "ShopProject.Dtos >= 1.0.0",
+      "ShopProject.Repositories >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -508,6 +524,9 @@
             },
             "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj": {
               "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj"
+            },
+            "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Repositories\\ShopProject.Repositories.csproj": {
+              "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Repositories\\ShopProject.Repositories.csproj"
             }
           }
         }
