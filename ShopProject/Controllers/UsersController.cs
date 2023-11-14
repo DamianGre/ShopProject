@@ -8,7 +8,7 @@ using System.Data;
 namespace ShopProject.WebApi.Controllers
 {
     [ApiController]
-    [Route("v1/controller")]
+    [Route("v1/users")]
     public class UsersController
     {
         private readonly IMediator _mediator;
