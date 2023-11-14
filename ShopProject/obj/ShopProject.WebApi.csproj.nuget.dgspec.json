@@ -4,6 +4,72 @@
     "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject\\ShopProject.WebApi.csproj": {}
   },
   "projects": {
+    "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj",
+        "projectName": "ShopProject.Converters",
+        "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj",
+        "packagesPath": "C:\\Users\\tomek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tomek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj": {
+                "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj"
+              },
+              "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj": {
+                "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -102,6 +168,100 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.EF\\ShopProject.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.EF\\ShopProject.EF.csproj",
+        "projectName": "ShopProject.EF",
+        "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.EF\\ShopProject.EF.csproj",
+        "packagesPath": "C:\\Users\\tomek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tomek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj": {
+                "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj"
+              },
+              "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Repositories\\ShopProject.Repositories.csproj": {
+                "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Repositories\\ShopProject.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -213,11 +373,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj": {
+                "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj"
+              },
               "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj": {
                 "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.DBModels\\ShopProject.DBModels.csproj"
               },
               "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj": {
                 "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Dtos\\ShopProject.Dtos.csproj"
+              },
+              "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.EF\\ShopProject.EF.csproj": {
+                "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.EF\\ShopProject.EF.csproj"
               },
               "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Repositories\\ShopProject.Repositories.csproj": {
                 "projectPath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Repositories\\ShopProject.Repositories.csproj"
@@ -235,6 +401,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

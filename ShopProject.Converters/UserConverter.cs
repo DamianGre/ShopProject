@@ -13,10 +13,13 @@ namespace ShopProject.Converters
             return new UserDto() 
             { 
                 Id = user.Id,
-                UserName = user.UserName,
+                Name = user.Name,
                 Email = user.Email
             };
         }
+
+        //couting logic example for all orders that user did in all history
+        //allHistoryCosts = user.Orders.SelectMany(x => x.Item).Sum(y => y.Price);
 
         public IEnumerable<UserDto> Convert(IEnumerable<User> users)
         {

@@ -1,0 +1,15 @@
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\bin\Debug\net6.0\ShopProject.Repositories.deps.json
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\bin\Debug\net6.0\ShopProject.Repositories.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\bin\Debug\net6.0\ShopProject.Repositories.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\bin\Debug\net6.0\ShopProject.DBModels.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\bin\Debug\net6.0\ShopProject.DBModels.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.AssemblyInfo.cs
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.csproj.CopyComplete
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\refint\ShopProject.Repositories.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ShopProject.Repositories.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Repositories\obj\Debug\net6.0\ref\ShopProject.Repositories.dll

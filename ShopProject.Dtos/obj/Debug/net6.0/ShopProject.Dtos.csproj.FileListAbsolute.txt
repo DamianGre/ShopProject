@@ -3,3 +3,10 @@ C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ShopPr
 C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ShopProject.Dtos.AssemblyInfoInputs.cache
 C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ShopProject.Dtos.AssemblyInfo.cs
 C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ShopProject.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\bin\Debug\net6.0\ShopProject.Dtos.deps.json
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\bin\Debug\net6.0\ShopProject.Dtos.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\bin\Debug\net6.0\ShopProject.Dtos.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ShopProject.Dtos.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\refint\ShopProject.Dtos.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ShopProject.Dtos.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Dtos\obj\Debug\net6.0\ref\ShopProject.Dtos.dll

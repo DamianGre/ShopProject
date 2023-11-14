@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "H9cV+IKItz6ND78WY4r8YVc8Lck/Y+PNMOOfnMkoJro=",
-  "Source": "ShopProject",
-  "BasePath": "_content/ShopProject",
+  "Hash": "vWKXC5v1tnkyktc63SX+cHgLOSqew5Wvxw+RMRAbXPk=",
+  "Source": "ShopProject.WebApi",
+  "BasePath": "_content/ShopProject.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

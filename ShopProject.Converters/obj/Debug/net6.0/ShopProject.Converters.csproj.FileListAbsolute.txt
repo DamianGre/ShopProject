@@ -3,3 +3,15 @@ C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\
 C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.AssemblyInfoInputs.cache
 C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.AssemblyInfo.cs
 C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.csproj.CoreCompileInputs.cache
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.Converters.deps.json
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.Converters.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.Converters.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.DBModels.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.Dtos.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.DBModels.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\bin\Debug\net6.0\ShopProject.Dtos.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.csproj.CopyComplete
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\refint\ShopProject.Converters.dll
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ShopProject.Converters.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject.Converters\obj\Debug\net6.0\ref\ShopProject.Converters.dll

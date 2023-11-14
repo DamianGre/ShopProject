@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopProject.WebApi", "ShopProject\ShopProject.WebApi.csproj", "{43EC3AB8-2BC3-4F7B-8CAF-D4D6A7214226}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0E87E42F-7EEE-49E1-B475-31EC4664B7AE} = {0E87E42F-7EEE-49E1-B475-31EC4664B7AE}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopProject.Converters", "ShopProject.Converters\ShopProject.Converters.csproj", "{AC446421-6780-4391-A4C8-E956146FC6EC}"
 EndProject
@@ -11,9 +14,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopProject.Dtos", "ShopPro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopProject.DBModels", "ShopProject.DBModels\ShopProject.DBModels.csproj", "{E275597F-21C7-40A5-AB74-ACD6092EB165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopProject.EF", "ShopProject.EF\ShopProject.EF.csproj", "{0E87E42F-7EEE-49E1-B475-31EC4664B7AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopProject.EF", "ShopProject.EF\ShopProject.EF.csproj", "{0E87E42F-7EEE-49E1-B475-31EC4664B7AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopProject.Repositories", "ShopProject.Repositories\ShopProject.Repositories.csproj", "{862BD56F-DEA8-4CD0-A390-5CC7EF47236B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopProject.Repositories", "ShopProject.Repositories\ShopProject.Repositories.csproj", "{862BD56F-DEA8-4CD0-A390-5CC7EF47236B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

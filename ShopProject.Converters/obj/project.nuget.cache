@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iCG3xDSr646GfH9cBLvnZrmQiGd2K/pqZrCygqWE3A6SUIT5UDw96BWPgFa6BABaSE5FOYaokLdgAmVDYrqVvw==",
+  "dgSpecHash": "nkJ/Cf82zFVl8v/9Nc2KvDazT9KrlisrapvMGMrBG5mN9gEEKhnolmiFQrtqg/kEi8uhpnxq5uJLCSTRaJ4QFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tomek\\source\\repos\\ShopProject\\ShopProject.Converters\\ShopProject.Converters.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tomek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

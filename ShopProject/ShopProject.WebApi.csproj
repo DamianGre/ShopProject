@@ -7,19 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Handlers\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Commands\" />
-    <Folder Include="Querries\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\ShopProject.Converters\ShopProject.Converters.csproj" />
     <ProjectReference Include="..\ShopProject.DBModels\ShopProject.DBModels.csproj" />
     <ProjectReference Include="..\ShopProject.Dtos\ShopProject.Dtos.csproj" />
+    <ProjectReference Include="..\ShopProject.EF\ShopProject.EF.csproj" />
     <ProjectReference Include="..\ShopProject.Repositories\ShopProject.Repositories.csproj" />
   </ItemGroup>
 
