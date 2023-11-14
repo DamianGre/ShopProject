@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MediatR;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using ShopProject.Dtos.Users;
-using ShopProject.WebApi.Querries;
 using ShopProject.WebApi.Commands;
-using System.Data;
+using ShopProject.WebApi.Querries;
 
 namespace ShopProject.WebApi.Controllers
 {
