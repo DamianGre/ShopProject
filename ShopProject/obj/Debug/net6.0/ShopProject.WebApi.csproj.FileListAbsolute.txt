@@ -101,3 +101,4 @@ C:\Users\tomek\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\Microsoft.A
 C:\Users\tomek\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\tomek\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.EF.dll
 C:\Users\tomek\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.EF.pdb
+C:\Users\tomek\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
